@@ -1,0 +1,22 @@
+# Browser Automation
+selenium>=4.10.0
+helium>=3.2.0
+
+# Database
+pymongo>=4.5.0
+
+# Environment and Configuration
+python-dotenv>=1.0.0
+
+# AI and Machine Learning
+pydantic>=2.0.0
+pydantic-ai>=0.1.0  # Adjust version as needed
+openai>=1.0.0
+
+# Async Support
+asyncio>=3.4.3
+
+# Utility
+typing>=3.7.4
+datetime>=5.0
+random2>=1.0.1
