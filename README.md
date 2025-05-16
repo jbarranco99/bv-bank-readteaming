@@ -86,7 +86,7 @@ Supported attack types:
 
 ## Setup
 
-1. Install dependencies:
+1. Clone repo + Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
