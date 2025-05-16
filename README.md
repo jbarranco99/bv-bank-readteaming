@@ -101,6 +101,10 @@ AURORA_PASSWORD=your_password
 ```
 
 3. Ensure MongoDB is running and accessible
+    3.1 Create 3 collections:
+        - attack_types_pp
+        - prompt_examples_pp
+        - test_results_pp
 
 ## Usage
 
@@ -129,3 +133,10 @@ asyncio.run(main(
 - Review and approve generated prompts
 - Follow responsible disclosure practices
 - Respect rate limits and usage policies
+
+
+
+
+
+
+
